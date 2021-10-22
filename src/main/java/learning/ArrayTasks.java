@@ -3,7 +3,8 @@ package learning;
 public class ArrayTasks {
 
     public static void main(String[] args) {
-        System.out.println(maxOrZero(new int[] {0, 0, -1, 2})); //O(N)
+        System.out.println(maxOrZero(new int[]{0, 0, -1, 2})); //O(N)
+
     }
 
     static int maxOrZero(int[] arr) {
